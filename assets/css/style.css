@@ -1,0 +1,19 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.image-pesawat{
+    justify-content: center;
+}
+
+.navigasi{
+    background-color: #4D9EDF;
+}
+
+.btn-light{
+    border-radius: 24px;
+}
